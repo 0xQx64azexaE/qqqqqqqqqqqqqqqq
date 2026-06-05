@@ -45,7 +45,7 @@ locales/locale.json?locale=../../../pterodactyl&namespace=config/session
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourname/CVE-2025-49132
+git clone https://github.com/yurahshell/CVE-2025-49132
 cd CVE-2025-49132
 pip install -r requirements.txt
 ```
